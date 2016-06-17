@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Max Performance Coaching]]></title>
+        <description><![CDATA[Max Performance Coaching]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 02:45:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will Wood Invitation to Max Performance Master Course]]></title>
+            <description><![CDATA[<article><h1>Will Wood Invitation to Max Performance Master Course</h1><p>As a kick-start, I present you this incredible all free no pitching or salesy opportunity</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/16f82c078bcb4fb327749ecba39dfea5/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2Flu6YlZJYjQM%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/lu6YlZJYjQM</link>
+            <guid isPermaLink="false">e10eed57-b6d5-42b4-9ae5-3a7a0f27eba1</guid>
+            <pubDate>Fri, 17 Jun 2016 02:44:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
