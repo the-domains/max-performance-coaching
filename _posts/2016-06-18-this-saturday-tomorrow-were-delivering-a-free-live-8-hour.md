@@ -1,23 +1,28 @@
 ---
-authors: []
-dateModified: '2016-06-18T08:07:18.580Z'
-datePublished: '2016-06-18T08:09:02.369Z'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: >-
   Today we're delivering a FREE live 8 hour webcast training from our Denver
   studios with the specific goal of helping you create transformational income
   and wealth doing what you love to do, and you can attend here:
-hasPage: false
-inFeed: true
-inNav: false
-keywords: []
+datePublished: '2016-06-18T08:44:36.147Z'
+dateModified: '2016-06-18T08:27:32.733Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-18-this-saturday-tomorrow-were-delivering-a-free-live-8-hour.md
+authors: []
+publisher: null
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4d1bfd1-e7e6-4f72-904f-ad4b539b5829.png)
+
 Today we're delivering a FREE live 8 hour webcast training from our Denver studios with the specific goal of helping you create transformational income and wealth doing what you love to do, and you can attend here:
 
 http://www.maxperformancemastercourse.com/?id=beauty-and-the-beast
