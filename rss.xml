@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Max Performance Coaching]]></title>
+        <description><![CDATA[Max Performance Coaching]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 05:44:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Project Titan]]></title>
+            <description><![CDATA[<article><h1>Project Titan</h1><p>If there ever was a mysterious magic wand that you can wave over your life that "makes it all better" or instantly brings you the success, health, wealth, happiness, relationships, or dreams that you always put off or never seem to accomplish... YOU CAN Successfully Pursue Wealth...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/199ba1fc510a50d3aadc3a4313a889a9/noop.jpg?input=http%3A%2F%2Fwillandchristian.com%2Fwp-content%2Fuploads%2F2015%2F11%2FDVD_Template-1-278x3001.jpg"></article>]]></description>
+            <link>http://joinprojecttitan.com/index.php/words/</link>
+            <guid isPermaLink="false">fec5619f-5e67-48fd-b9e8-d02ea717c453</guid>
+            <pubDate>Tue, 21 Jun 2016 05:44:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
