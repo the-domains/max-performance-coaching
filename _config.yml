@@ -1,19 +1,4 @@
-name: Max Performance Coaching
-favicon: null
-layout_spectrum: 0.07083814684301615
 typography_spectrum: 0.0923586068674922
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,22 @@ color:
   lightness: 0.3624202876817435
   saturation: 0.28519304608926177
   rhythmicContrast: 0.017134156776592135
+opengraph:
+  image: null
+  type: null
+  appId: '307339332686535'
+layout_spectrum: 0.07083814684301615
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Ricardo
+  email: ricardo.posadas@proscitec.onmicrosoft.com
+name: Max Performance Coaching
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
