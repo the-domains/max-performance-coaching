@@ -10,6 +10,7 @@ color:
   lightness: 0.3624202876817435
   saturation: 0.28519304608926177
   rhythmicContrast: 0.017134156776592135
+github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a586ce8-58ea-4b2f-96ef-d96f33246fea.png
@@ -29,4 +30,7 @@ cta:
   bucket: null
   version: null
 favicon: null
+title: A Blog for Those Who Love Excellence
+content: []
+description: The Proper Mindset and Spiritual Stages  for Self Improvement
 purpose: []
