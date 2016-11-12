@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Max Performance Coaching]]></title>
-        <description><![CDATA[Max Performance Coaching]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A Blog for Those Who Love Excellence]]></title>
+        <description><![CDATA[A Blog for Those Who Love Excellence]]></description>
+        <link>https://thegrid.ai/max-performance-coaching/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 05:44:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Nov 2016 06:59:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/max-performance-coaching/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 12 Nov 2016 06:59:08 GMT</pubDate>
+        <item>
+            <title><![CDATA[Kenrick and Yegyan]]></title>
+            <description><![CDATA[<article><h1>Kenrick and Yegyan</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/94da20c1edf229b487ac31f34b288183/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fg1Bb8uXlx7k%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=g1Bb8uXlx7k</link>
+            <guid isPermaLink="false">0a1907df-4751-4786-9a9e-1360b7bb9601</guid>
+            <pubDate>Sat, 12 Nov 2016 06:58:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Project Titan]]></title>
             <description><![CDATA[<article><h1>Project Titan</h1><p>If there ever was a mysterious magic wand that you can wave over your life that "makes it all better" or instantly brings you the success, health, wealth, happiness, relationships, or dreams that you always put off or never seem to accomplish... YOU CAN Successfully Pursue Wealth...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/199ba1fc510a50d3aadc3a4313a889a9/noop.jpg?input=http%3A%2F%2Fwillandchristian.com%2Fwp-content%2Fuploads%2F2015%2F11%2FDVD_Template-1-278x3001.jpg"></article>]]></description>
